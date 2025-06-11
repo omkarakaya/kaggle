@@ -10,3 +10,5 @@
   - https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting/data
 - [ECommerce Text Classification](ecommerce_text_classification/)
   - https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification/data
+- [Stock Market Data](stock_market_data)
+  - https://www.kaggle.com/datasets/paultimothymooney/stock-market-data/data
